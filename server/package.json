@@ -1,0 +1,19 @@
+{
+    "name": "timetable",
+    "version": "1.0.0",
+    "description": "ООО \"ЯАЯ\" Расписание",
+    "main": "server.js",
+    "scripts": {
+        "start": "nodemon server.js"
+    },
+    "author": "github.com/pPitohu",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "fast-xml-parser": "^3.20.3",
+        "fs": "^0.0.1-security",
+        "node-html-parser": "^4.1.5",
+        "nodemon": "^2.0.13"
+    }
+}

@@ -9,6 +9,7 @@
     "author": "github.com/pPitohu",
     "license": "ISC",
     "dependencies": {
+        "axios": "^0.22.0",
         "cors": "^2.8.5",
         "express": "^4.17.1",
         "fast-xml-parser": "^3.20.3",

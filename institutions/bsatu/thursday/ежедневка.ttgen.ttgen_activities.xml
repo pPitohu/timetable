@@ -1,0 +1,999 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Activities_Timetable>
+<Activity>
+	<Id>45</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>51</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>140</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>142</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>476</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>527</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>536</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>540</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>573</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>579</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>604</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>671</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>676</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>789</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>806</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>810</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>813</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>3471</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>3506</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>3510</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>3525</Id>
+	<Day>Понедельник</Day>
+	<Hour>3</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>3555</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>3557</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>3561</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>3574</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>3602</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>3604</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>3606</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>3610</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>3640</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>3642</Id>
+	<Day>Понедельник</Day>
+	<Hour>3</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>3676</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>3678</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>3725</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>3840</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>3856</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>3886</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>3906</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>3908</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>3909</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>3932</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>3933</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>3935</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>3996</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4034</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4040</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4094</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4106</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4137</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4139</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4145</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4202</Id>
+	<Day>Понедельник</Day>
+	<Hour>3</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4208</Id>
+	<Day>Понедельник</Day>
+	<Hour>1</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4228</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4247</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4269</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4285</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4319</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4325</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4331</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4337</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4343</Id>
+	<Day>Понедельник</Day>
+	<Hour>7</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4345</Id>
+	<Day>Понедельник</Day>
+	<Hour>9</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4347</Id>
+	<Day>Понедельник</Day>
+	<Hour>1</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4349</Id>
+	<Day>Понедельник</Day>
+	<Hour>5</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4383</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4384</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4386</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4403</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4405</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4409</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4437</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4528</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4536</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4545</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4583</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4591</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4597</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4602</Id>
+	<Day>Понедельник</Day>
+	<Hour>6</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4637</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4663</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4682</Id>
+	<Day>Понедельник</Day>
+	<Hour>9</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4852</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4858</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4936</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4962</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>4973</Id>
+	<Day>Понедельник</Day>
+	<Hour>1</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5063</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5116</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5156</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5174</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5183</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5206</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5259</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5405</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5443</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5469</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5474</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5480</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5506</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5526</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5529</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5565</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5576</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5581</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5587</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5597</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5644</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5653</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5665</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5682</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5702</Id>
+	<Day>Понедельник</Day>
+	<Hour>5</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5706</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5715</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5727</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5764</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5776</Id>
+	<Day>Понедельник</Day>
+	<Hour>9</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5806</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5828</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5842</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5852</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5866</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5892</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5896</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5918</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5932</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5948</Id>
+	<Day>Понедельник</Day>
+	<Hour>13</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5956</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>5972</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6015</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6029</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6033</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6057</Id>
+	<Day>Понедельник</Day>
+	<Hour>7</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6089</Id>
+	<Day>Понедельник</Day>
+	<Hour>3</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6093</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6097</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6135</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6161</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6185</Id>
+	<Day>Понедельник</Day>
+	<Hour>1</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6225</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6231</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6237</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6243</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6249</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6255</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6315</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6327</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6348</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6377</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6595</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6623</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6630</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6672</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6713</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6753</Id>
+	<Day>Понедельник</Day>
+	<Hour>9</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6764</Id>
+	<Day>Понедельник</Day>
+	<Hour>13</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6775</Id>
+	<Day>Понедельник</Day>
+	<Hour>11</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6786</Id>
+	<Day>Понедельник</Day>
+	<Hour>7</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6797</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6808</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6819</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6830</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6869</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6871</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6873</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>6897</Id>
+	<Day></Day>
+	<Hour></Hour>
+	<Room></Room>
+</Activity>
+</Activities_Timetable>

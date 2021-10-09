@@ -1,0 +1,4603 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Students_Timetable>
+  <Subgroup name="0К9091-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="0К9091-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="0К9091-3">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="0К9111-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="0К9111-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="0К9191-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="0К9191-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="0К9191-3">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="0К9291-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="0К9291-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="0К9291-3">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="0К9311-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     <Teacher name="Чикун Е.О."></Teacher><Subject name="Техники коммуникации и основы командообразования"></Subject>
+    </Hour>
+    <Hour name="2">
+     <Teacher name="Чикун Е.О."></Teacher><Subject name="Техники коммуникации и основы командообразования"></Subject>
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="0К9311-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     <Teacher name="Чикун Е.О."></Teacher><Subject name="Техники коммуникации и основы командообразования"></Subject>
+    </Hour>
+    <Hour name="2">
+     <Teacher name="Чикун Е.О."></Teacher><Subject name="Техники коммуникации и основы командообразования"></Subject>
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="0К9391-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     <Teacher name="Кувшинчикова Н.В."></Teacher><Subject name="Защита населения и территорий от чрезвычайных ситуаций"></Subject>
+    </Hour>
+    <Hour name="8">
+     <Teacher name="Кувшинчикова Н.В."></Teacher><Subject name="Защита населения и территорий от чрезвычайных ситуаций"></Subject>
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="0К9391-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     <Teacher name="Кувшинчикова Н.В."></Teacher><Subject name="Защита населения и территорий от чрезвычайных ситуаций"></Subject>
+    </Hour>
+    <Hour name="8">
+     <Teacher name="Кувшинчикова Н.В."></Teacher><Subject name="Защита населения и территорий от чрезвычайных ситуаций"></Subject>
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="0К9391-3">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     <Teacher name="Кувшинчикова Н.В."></Teacher><Subject name="Защита населения и территорий от чрезвычайных ситуаций"></Subject>
+    </Hour>
+    <Hour name="8">
+     <Teacher name="Кувшинчикова Н.В."></Teacher><Subject name="Защита населения и территорий от чрезвычайных ситуаций"></Subject>
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="0К9392-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     <Teacher name="Кувшинчикова Н.В."></Teacher><Subject name="Защита населения и территорий от чрезвычайных ситуаций"></Subject>
+    </Hour>
+    <Hour name="10">
+     <Teacher name="Кувшинчикова Н.В."></Teacher><Subject name="Защита населения и территорий от чрезвычайных ситуаций"></Subject>
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="0К9392-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     <Teacher name="Кувшинчикова Н.В."></Teacher><Subject name="Защита населения и территорий от чрезвычайных ситуаций"></Subject>
+    </Hour>
+    <Hour name="10">
+     <Teacher name="Кувшинчикова Н.В."></Teacher><Subject name="Защита населения и территорий от чрезвычайных ситуаций"></Subject>
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="0К9392-3">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     <Teacher name="Кувшинчикова Н.В."></Teacher><Subject name="Защита населения и территорий от чрезвычайных ситуаций"></Subject>
+    </Hour>
+    <Hour name="10">
+     <Teacher name="Кувшинчикова Н.В."></Teacher><Subject name="Защита населения и территорий от чрезвычайных ситуаций"></Subject>
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="0К9393-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     <Teacher name="Кувшинчикова Н.В."></Teacher><Subject name="Защита населения и территорий от чрезвычайных ситуаций"></Subject>
+    </Hour>
+    <Hour name="2">
+     <Teacher name="Кувшинчикова Н.В."></Teacher><Subject name="Защита населения и территорий от чрезвычайных ситуаций"></Subject>
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="0К9393-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     <Teacher name="Кувшинчикова Н.В."></Teacher><Subject name="Защита населения и территорий от чрезвычайных ситуаций"></Subject>
+    </Hour>
+    <Hour name="2">
+     <Teacher name="Кувшинчикова Н.В."></Teacher><Subject name="Защита населения и территорий от чрезвычайных ситуаций"></Subject>
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="0К9393-3">
+   <Day name="Понедельник">
+    <Hour name="1">
+     <Teacher name="Кувшинчикова Н.В."></Teacher><Subject name="Защита населения и территорий от чрезвычайных ситуаций"></Subject>
+    </Hour>
+    <Hour name="2">
+     <Teacher name="Кувшинчикова Н.В."></Teacher><Subject name="Защита населения и территорий от чрезвычайных ситуаций"></Subject>
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="0К9394-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     <Teacher name="Кувшинчикова Н.В."></Teacher><Subject name="Защита населения и территорий от чрезвычайных ситуаций"></Subject>
+    </Hour>
+    <Hour name="6">
+     <Teacher name="Кувшинчикова Н.В."></Teacher><Subject name="Защита населения и территорий от чрезвычайных ситуаций"></Subject>
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="0К9394-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     <Teacher name="Кувшинчикова Н.В."></Teacher><Subject name="Защита населения и территорий от чрезвычайных ситуаций"></Subject>
+    </Hour>
+    <Hour name="6">
+     <Teacher name="Кувшинчикова Н.В."></Teacher><Subject name="Защита населения и территорий от чрезвычайных ситуаций"></Subject>
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="0К9394-3">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     <Teacher name="Кувшинчикова Н.В."></Teacher><Subject name="Защита населения и территорий от чрезвычайных ситуаций"></Subject>
+    </Hour>
+    <Hour name="6">
+     <Teacher name="Кувшинчикова Н.В."></Teacher><Subject name="Защита населения и территорий от чрезвычайных ситуаций"></Subject>
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="0К9491-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     <Teacher name="Бенедиктович И.В."></Teacher><Subject name="Электрорадиоэлементы и устройства функциональной электроники"></Subject>
+    </Hour>
+    <Hour name="2">
+     <Teacher name="Бенедиктович И.В."></Teacher><Subject name="Электрорадиоэлементы и устройства функциональной электроники"></Subject>
+    </Hour>
+    <Hour name="3">
+     <Teacher name="Бенедиктович И.В."></Teacher><Subject name="Основы электроники"></Subject>
+    </Hour>
+    <Hour name="4">
+     <Teacher name="Бенедиктович И.В."></Teacher><Subject name="Основы электроники"></Subject>
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="0К9491-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     <Teacher name="Бенедиктович И.В."></Teacher><Subject name="Электрорадиоэлементы и устройства функциональной электроники"></Subject>
+    </Hour>
+    <Hour name="2">
+     <Teacher name="Бенедиктович И.В."></Teacher><Subject name="Электрорадиоэлементы и устройства функциональной электроники"></Subject>
+    </Hour>
+    <Hour name="3">
+     <Teacher name="Бенедиктович И.В."></Teacher><Subject name="Основы электроники"></Subject>
+    </Hour>
+    <Hour name="4">
+     <Teacher name="Бенедиктович И.В."></Teacher><Subject name="Основы электроники"></Subject>
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="0К9491-3">
+   <Day name="Понедельник">
+    <Hour name="1">
+     <Teacher name="Бенедиктович И.В."></Teacher><Subject name="Электрорадиоэлементы и устройства функциональной электроники"></Subject>
+    </Hour>
+    <Hour name="2">
+     <Teacher name="Бенедиктович И.В."></Teacher><Subject name="Электрорадиоэлементы и устройства функциональной электроники"></Subject>
+    </Hour>
+    <Hour name="3">
+     <Teacher name="Бенедиктович И.В."></Teacher><Subject name="Основы электроники"></Subject>
+    </Hour>
+    <Hour name="4">
+     <Teacher name="Бенедиктович И.В."></Teacher><Subject name="Основы электроники"></Subject>
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="0К9591-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="0К9591-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="0К9591-3">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1К9091-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1К9091-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1К9091-3">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1К9111-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     <Teacher name="Бенедиктович И.В."></Teacher><Subject name="Основы электроники и микроэлектроники "></Subject>
+    </Hour>
+    <Hour name="7">
+     <Teacher name="Бенедиктович И.В."></Teacher><Subject name="Основы электроники и микроэлектроники "></Subject>
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1К9111-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     <Teacher name="Бенедиктович И.В."></Teacher><Subject name="Основы электроники и микроэлектроники "></Subject>
+    </Hour>
+    <Hour name="7">
+     <Teacher name="Бенедиктович И.В."></Teacher><Subject name="Основы электроники и микроэлектроники "></Subject>
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1К9191-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     <Teacher name="Комяк Е.Н."></Teacher><Subject name="Физика"></Subject>
+    </Hour>
+    <Hour name="4">
+     <Teacher name="Комяк Е.Н."></Teacher><Subject name="Физика"></Subject>
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1К9191-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     <Teacher name="Комяк Е.Н."></Teacher><Subject name="Физика"></Subject>
+    </Hour>
+    <Hour name="4">
+     <Teacher name="Комяк Е.Н."></Teacher><Subject name="Физика"></Subject>
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1К9191-3">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     <Teacher name="Комяк Е.Н."></Teacher><Subject name="Физика"></Subject>
+    </Hour>
+    <Hour name="4">
+     <Teacher name="Комяк Е.Н."></Teacher><Subject name="Физика"></Subject>
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1К9291-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1К9291-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1К9291-3">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1К9311-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1К9311-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1К9391-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     <Teacher name="Кувшинчикова Н.В."></Teacher><Subject name="География"></Subject>
+    </Hour>
+    <Hour name="4">
+     <Teacher name="Кувшинчикова Н.В."></Teacher><Subject name="География"></Subject>
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1К9391-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     <Teacher name="Кувшинчикова Н.В."></Teacher><Subject name="География"></Subject>
+    </Hour>
+    <Hour name="4">
+     <Teacher name="Кувшинчикова Н.В."></Teacher><Subject name="География"></Subject>
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1К9391-3">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     <Teacher name="Кувшинчикова Н.В."></Teacher><Subject name="География"></Subject>
+    </Hour>
+    <Hour name="4">
+     <Teacher name="Кувшинчикова Н.В."></Teacher><Subject name="География"></Subject>
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1К9392-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1К9392-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1К9392-3">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1К9393-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1К9393-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1К9393-3">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1К9394-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1К9394-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1К9394-3">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1К9491-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1К9491-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1К9491-3">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1К9591-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1К9591-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1К9591-3">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="8К1191-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="8К1191-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="8К1391-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="8К1391-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="8К1591-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="8К1591-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="8К2491-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     <Teacher name="Ашуркевич К.В."></Teacher><Subject name="Компьютерные сети"></Subject>
+    </Hour>
+    <Hour name="8">
+     <Teacher name="Ашуркевич К.В."></Teacher><Subject name="Компьютерные сети"></Subject>
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="8К2491-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     <Teacher name="Ашуркевич К.В."></Teacher><Subject name="Компьютерные сети"></Subject>
+    </Hour>
+    <Hour name="8">
+     <Teacher name="Ашуркевич К.В."></Teacher><Subject name="Компьютерные сети"></Subject>
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="8К2492-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="8К2492-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="8К2493-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     <Teacher name="Ашуркевич К.В."></Teacher><Subject name="Компьютерные сети"></Subject>
+    </Hour>
+    <Hour name="2">
+     <Teacher name="Ашуркевич К.В."></Teacher><Subject name="Компьютерные сети"></Subject>
+    </Hour>
+    <Hour name="3">
+     <Teacher name="Чикун Е.О."></Teacher><Subject name="Основы менеджмента"></Subject>
+    </Hour>
+    <Hour name="4">
+     <Teacher name="Чикун Е.О."></Teacher><Subject name="Основы менеджмента"></Subject>
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="8К2493-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     <Teacher name="Ашуркевич К.В."></Teacher><Subject name="Компьютерные сети"></Subject>
+    </Hour>
+    <Hour name="2">
+     <Teacher name="Ашуркевич К.В."></Teacher><Subject name="Компьютерные сети"></Subject>
+    </Hour>
+    <Hour name="3">
+     <Teacher name="Чикун Е.О."></Teacher><Subject name="Основы менеджмента"></Subject>
+    </Hour>
+    <Hour name="4">
+     <Teacher name="Чикун Е.О."></Teacher><Subject name="Основы менеджмента"></Subject>
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="8К3291-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     <Teacher name="Ашуркевич К.В."></Teacher><Subject name="Компьютерные сети"></Subject>
+    </Hour>
+    <Hour name="10">
+     <Teacher name="Ашуркевич К.В."></Teacher><Subject name="Компьютерные сети"></Subject>
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="8К3291-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     <Teacher name="Ашуркевич К.В."></Teacher><Subject name="Компьютерные сети"></Subject>
+    </Hour>
+    <Hour name="10">
+     <Teacher name="Ашуркевич К.В."></Teacher><Subject name="Компьютерные сети"></Subject>
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="8К3791-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="8К3791-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="9К9091-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="9К9091-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="9К9111-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     <Teacher name="Чикун Е.О."></Teacher><Subject name="Экономика организации"></Subject>
+    </Hour>
+    <Hour name="6">
+     <Teacher name="Чикун Е.О."></Teacher><Subject name="Экономика организации"></Subject>
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="9К9111-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     <Teacher name="Чикун Е.О."></Teacher><Subject name="Экономика организации"></Subject>
+    </Hour>
+    <Hour name="6">
+     <Teacher name="Чикун Е.О."></Teacher><Subject name="Экономика организации"></Subject>
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="9К9191-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="9К9191-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="9К9291-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="9К9291-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="9К9311-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     <Teacher name="Ашуркевич К.В."></Teacher><Subject name="Компьютерные сети"></Subject>
+    </Hour>
+    <Hour name="14">
+     <Teacher name="Ашуркевич К.В."></Teacher><Subject name="Компьютерные сети"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="9К9311-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     <Teacher name="Ашуркевич К.В."></Teacher><Subject name="Компьютерные сети"></Subject>
+    </Hour>
+    <Hour name="14">
+     <Teacher name="Ашуркевич К.В."></Teacher><Subject name="Компьютерные сети"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="9К9391-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     <Teacher name="Чикун Е.О."></Teacher><Subject name="Техники коммуникации и основы командообразования"></Subject>
+    </Hour>
+    <Hour name="10">
+     <Teacher name="Чикун Е.О."></Teacher><Subject name="Техники коммуникации и основы командообразования"></Subject>
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="9К9391-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     <Teacher name="Чикун Е.О."></Teacher><Subject name="Техники коммуникации и основы командообразования"></Subject>
+    </Hour>
+    <Hour name="10">
+     <Teacher name="Чикун Е.О."></Teacher><Subject name="Техники коммуникации и основы командообразования"></Subject>
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="9К9392-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     <Teacher name="Чикун Е.О."></Teacher><Subject name="Техники коммуникации и основы командообразования"></Subject>
+    </Hour>
+    <Hour name="14">
+     <Teacher name="Чикун Е.О."></Teacher><Subject name="Техники коммуникации и основы командообразования"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="9К9392-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     <Teacher name="Чикун Е.О."></Teacher><Subject name="Техники коммуникации и основы командообразования"></Subject>
+    </Hour>
+    <Hour name="14">
+     <Teacher name="Чикун Е.О."></Teacher><Subject name="Техники коммуникации и основы командообразования"></Subject>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="9К9393-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     <Teacher name="Чикун Е.О."></Teacher><Subject name="Техники коммуникации и основы командообразования"></Subject>
+    </Hour>
+    <Hour name="12">
+     <Teacher name="Чикун Е.О."></Teacher><Subject name="Техники коммуникации и основы командообразования"></Subject>
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="9К9393-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     <Teacher name="Чикун Е.О."></Teacher><Subject name="Техники коммуникации и основы командообразования"></Subject>
+    </Hour>
+    <Hour name="12">
+     <Teacher name="Чикун Е.О."></Teacher><Subject name="Техники коммуникации и основы командообразования"></Subject>
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="9К9394-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     <Teacher name="Чикун Е.О."></Teacher><Subject name="Техники коммуникации и основы командообразования"></Subject>
+    </Hour>
+    <Hour name="8">
+     <Teacher name="Чикун Е.О."></Teacher><Subject name="Техники коммуникации и основы командообразования"></Subject>
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="9К9394-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     <Teacher name="Чикун Е.О."></Teacher><Subject name="Техники коммуникации и основы командообразования"></Subject>
+    </Hour>
+    <Hour name="8">
+     <Teacher name="Чикун Е.О."></Teacher><Subject name="Техники коммуникации и основы командообразования"></Subject>
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="9К9491-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="9К9491-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     
+    </Hour>
+    <Hour name="10">
+     
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="9К9591-1">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     <Teacher name="Бенедиктович И.В."></Teacher><Subject name="Основы микроэлектроники"></Subject>
+    </Hour>
+    <Hour name="10">
+     <Teacher name="Бенедиктович И.В."></Teacher><Subject name="Основы микроэлектроники"></Subject>
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="9К9591-2">
+   <Day name="Понедельник">
+    <Hour name="1">
+     
+    </Hour>
+    <Hour name="2">
+     
+    </Hour>
+    <Hour name="3">
+     
+    </Hour>
+    <Hour name="4">
+     
+    </Hour>
+    <Hour name="5">
+     
+    </Hour>
+    <Hour name="6">
+     
+    </Hour>
+    <Hour name="7">
+     
+    </Hour>
+    <Hour name="8">
+     
+    </Hour>
+    <Hour name="9">
+     <Teacher name="Бенедиктович И.В."></Teacher><Subject name="Основы микроэлектроники"></Subject>
+    </Hour>
+    <Hour name="10">
+     <Teacher name="Бенедиктович И.В."></Teacher><Subject name="Основы микроэлектроники"></Subject>
+    </Hour>
+    <Hour name="11">
+     
+    </Hour>
+    <Hour name="12">
+     
+    </Hour>
+    <Hour name="13">
+     
+    </Hour>
+    <Hour name="14">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+</Students_Timetable>

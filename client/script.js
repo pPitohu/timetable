@@ -6,6 +6,23 @@ const select = document.querySelector('.institution-select'),
 
 const API_SERVER = 'http://localhost:3000';
 
+function dayToNormal(day) {
+    switch (day) {
+        case 1:
+            return 'monday';
+        case 2:
+            return 'tuesday';
+        case 3:
+            return 'wednesday';
+        case 4:
+            return 'thursday';
+        case 5:
+            return 'friday';
+        case 6:
+            return 'saturday';
+    }
+}
+
 document.addEventListener('DOMContentLoaded', () => {
     fetch('/getListOfInstitutes')
         .then((res) => res.json())
@@ -13,7 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
             //console.log(data);
             data.forEach(
                 (el) =>
-                    (select.innerHTML += `<option value="${el.name}">${el.name}</option>`)
+                    (select.innerHTML += `<option value="${el}">${el}</option>`)
             );
             select.onchange = (e) => {
                 fetch(`/setInstitute`, {
@@ -60,11 +77,12 @@ document.addEventListener('DOMContentLoaded', () => {
             });
     };
     groupFindBtn.onclick = () => {
+        let date = new Date();
         fetch(
             `/getGroupTimeTable?group=${
                 document.querySelectorAll('.group-select option[selected]')[1]
                     .value
-            }`
+            }&today=${dayToNormal(date.getDay())}`
         )
             .then((res) => res.json())
             .then((data) => {

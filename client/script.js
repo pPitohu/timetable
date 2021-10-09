@@ -23,6 +23,25 @@ function dayToNormal(day) {
     }
 }
 
+function exists(lesson) {
+    switch (lesson) {
+        case undefined:
+            return '-';
+        case null:
+            return '-';
+        case '-x-':
+            return '-';
+        case '---':
+            return '-';
+        case '':
+            return '-';
+        case ' ':
+            return '-';
+        default:
+            return lesson;
+    }
+}
+
 document.addEventListener('DOMContentLoaded', () => {
     fetch('/getListOfInstitutes')
         .then((res) => res.json())
@@ -30,16 +49,16 @@ document.addEventListener('DOMContentLoaded', () => {
             //console.log(data);
             data.forEach(
                 (el) =>
-                    (select.innerHTML += `<option value="${el}">${el}</option>`)
+                (select.innerHTML += `<option value="${el}">${el}</option>`)
             );
             select.onchange = (e) => {
                 fetch(`/setInstitute`, {
-                    method: 'POST',
-                    headers: {
-                        'Content-Type': 'application/json',
-                    },
-                    body: JSON.stringify({ name: select.value }),
-                })
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json',
+                        },
+                        body: JSON.stringify({ name: select.value }),
+                    })
                     .then((res) => res.json())
                     .then((data) => {
                         console.log('institute set - ' + data.success);
@@ -55,7 +74,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 console.log(data);
                 data.forEach(
                     (el) =>
-                        (groupSelect.innerHTML += `<option value="${el}">${el}</option>`)
+                    (groupSelect.innerHTML += `<option value="${el}">${el}</option>`)
                 );
                 groupSelect.onchange = (e) => {
                     groupFindBtn.removeAttribute('disabled');
@@ -67,6 +86,8 @@ document.addEventListener('DOMContentLoaded', () => {
                                 el.setAttribute('selected', '');
                         });
                 };
+                document.querySelector('.group-select-wrapper').style.display =
+                    'block';
             });
     };
     teachersBtn.onclick = () => {
@@ -74,19 +95,65 @@ document.addEventListener('DOMContentLoaded', () => {
             .then((res) => res.json())
             .then((data) => {
                 console.log(data);
+                document.querySelector(
+                    '.teacher-select-wrapper'
+                ).style.display = 'block';
             });
     };
     groupFindBtn.onclick = () => {
+        document.querySelector('.timetable-table').innerHTML = '';
         let date = new Date();
         fetch(
-            `/getGroupTimeTable?group=${
+                `/getGroupTimeTable?group=${
                 document.querySelectorAll('.group-select option[selected]')[1]
                     .value
             }&today=${dayToNormal(date.getDay())}`
-        )
+            )
             .then((res) => res.json())
-            .then((data) => {
-                console.log(data);
+            .then((group_tt) => {
+                console.log(group_tt);
+                let data = group_tt.tt;
+                for (let i = 0; i < data.length; i++) {
+                    let dataLessons = data[i].lessons[0];
+                    let isPinned = data[i].pinned;
+                    document.querySelector('.timetable-table').innerHTML += `
+                    <h2 class="w-50 mx-auto">Day: ${data[i].day}</h2>
+                    <table
+                    class="table table-bordered align-middle students-table w-50 mx-auto"
+                    style="text-align: center;"
+                >
+                    <thead class="table-success">
+                        <tr>
+                            <th scope="col">Начало</th>
+                            <th scope="col">Конец</th>
+                            <th scope="col">Предмет</th>
+                            <th scope="col">Преподаватель</th>
+                            <th scope="col">Аудитория</th>
+                        </tr>
+                    </thead>
+                    <tbody class="day-table-body"></tbody>
+                    </table>`;
+                    for (let j = 0; j < dataLessons.length; j++) {
+                        console.log(dataLessons[j].lesson);
+                        let lesson = dataLessons[j].lesson.split('<br>'),
+                            lessonSubject = lesson[0],
+                            lessonTeacher = lesson[1],
+                            lessonClass = lesson[2];
+                        if (!(exists(dataLessons[j].lesson) == '-')) {
+                            document.querySelectorAll('.day-table-body')[
+                                i
+                            ].innerHTML += `
+                                    <tr>
+                                        <th scope="row">${i}</th>
+                                        <td>Mark</td>
+                                        <td>${exists(lessonSubject)}</td>
+                                        <td>${exists(lessonTeacher)}</td>
+                                        <td>${exists(lessonClass)}</td>
+                                    </tr>
+                            `;
+                        }
+                    }
+                }
             });
     };
 });

@@ -1,0 +1,47 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 3rem;
+}
+.nav-link {
+    text-decoration: none;
+    padding: 5px 10px !important;
+    margin-left: 10px;
+    margin-top: 10px;
+    border: 1px solid rgb(214, 209, 209);
+    background: rgb(255, 255, 255);
+    border-radius: 15px;
+    color: #000;
+}
+
+.select-wrapper {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+    margin: 1rem 0;
+}
+.select-wrapper select {
+    width: 50%;
+}
+
+.navbar-collapse {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+    z-index: 999;
+}
+
+@media screen and (max-width: 992px) {
+    .navbar-collapse {
+        position: absolute;
+        top: 100%;
+        width: 100%;
+        padding: 1rem;
+        background: rgb(255, 255, 255);
+        border-radius: 12px;
+        transform: translateY(0);
+    }
+}

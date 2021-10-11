@@ -1,19 +1,11 @@
 const express = require('express');
-const cors = require('cors');
 const fs = require('fs');
 const path = require('path');
-const axios = require('axios');
 const HTMLparser = require('node-html-parser');
-const XMLparser = require('fast-xml-parser');
 const app = express();
 const port = process.env.PORT || 1234;
 let searchingInstitute;
 let groups_data, doc, teachers_doc, teachers_data;
-// app.use(
-//     cors({
-//         origin: 'http://localhost:5500',
-//     })
-// );
 
 app.use(express.static(path.join(__dirname, 'client')));
 

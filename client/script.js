@@ -61,6 +61,34 @@ function exists(lesson) {
     }
 }
 
+let fakeTimeStart = [
+    '8:30',
+    '10:15',
+    '12:10',
+    '13:55',
+    '15:50',
+    '17:35',
+    '19:20',
+];
+let fakeTimeEnd = [
+    '10:05',
+    '11:50',
+    '13:45',
+    '15:30',
+    '17:25',
+    '19:10',
+    '20:55',
+];
+let fakeAudit = [
+    401, 201, 205, 308, 307, 218, 221, 101, 103, 303, 304, 305, 301, 201, 404,
+    405, 406, 415,
+];
+
+function randomInteger(min, max) {
+    let rand = min + Math.random() * (max - min);
+    return Math.round(rand);
+}
+
 document.addEventListener('DOMContentLoaded', () => {
     fetch('/getListOfInstitutes')
         .then((res) => res.json())
@@ -204,13 +232,21 @@ document.addEventListener('DOMContentLoaded', () => {
                                 i
                             ].innerHTML += `
                                     <tr>
-                                        <th scope="row">${i}</th>
-                                        <td>${i + 1}</td>
+                                        <th scope="row">${fakeTimeStart[j]}</th>
+                                        <td>${fakeTimeEnd[j]}</td>
                                         <td>${exists(lessonSubject)}</td>
                                         <td>${exists(lessonTeacher)}</td>
-                                        <td>${exists(lessonClass)}</td>
-                                    </tr>
-                            `;
+                                        <td>${
+                                            fakeAudit[
+                                                randomInteger(
+                                                    0,
+                                                    fakeAudit.length - 1
+                                                )
+                                            ]
+                                        }</td>
+                                        </tr>
+                                        `;
+                            //<td>${exists(lessonClass)}</td>
                         }
                     }
                 }
@@ -353,11 +389,19 @@ document.addEventListener('DOMContentLoaded', () => {
                                 i
                             ].innerHTML += `
                             <tr>
-                                        <th scope="row">${i}</th>
-                                        <td>${i + 1}</td>
+                                        <th scope="row">${fakeTimeStart[j]}</th>
+                                        <td>${fakeTimeEnd[j]}</td>
                                         <td>${exists(lessonSubject)}</td>
                                         <td>${exists(lessonTeacher)}</td>
-                                        <td>${exists(lessonClass)}</td>
+                                        <td>${
+                                            fakeAudit[
+                                                randomInteger(
+                                                    0,
+                                                    fakeAudit.length - 1
+                                                )
+                                            ]
+                                            //    exists(lessonClass)
+                                        }</td>
                                         <td>${exists(lessonGroup)}</td>
                                         </tr>
                                         `;

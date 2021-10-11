@@ -4,6 +4,7 @@ header {
     align-items: center;
     margin-bottom: 3rem;
 }
+
 .nav-link {
     text-decoration: none;
     padding: 5px 10px !important;
@@ -22,6 +23,7 @@ header {
     align-items: center;
     margin: 1rem 0;
 }
+
 .select-wrapper select {
     width: 50%;
 }
@@ -32,6 +34,26 @@ header {
     right: 0;
     transform: translateY(-50%);
     z-index: 999;
+}
+
+.spinner-border {}
+
+.timetable-table {
+    display: none;
+}
+
+.pinned {
+    border: 1px solid rgba(23, 201, 7, 0.3);
+    box-shadow: 0 10px 15px 5px rgba(23, 201, 7, 0.3);
+    border-radius: 12px;
+    padding: 1rem 1.5rem;
+    margin: 2rem auto;
+    width: 75%;
+}
+
+.pinned table,
+.pinned h2 {
+    width: 100% !important;
 }
 
 @media screen and (max-width: 992px) {

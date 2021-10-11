@@ -5,9 +5,8 @@ const path = require('path');
 const axios = require('axios');
 const HTMLparser = require('node-html-parser');
 const XMLparser = require('fast-xml-parser');
-const xml2js = require('xml2js');
 const app = express();
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 80;
 let searchingInstitute;
 let groups_data, doc, teachers_doc, teachers_data;
 // app.use(

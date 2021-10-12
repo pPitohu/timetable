@@ -121,8 +121,7 @@ document.addEventListener('DOMContentLoaded', () => {
         fetch('/loadGroups')
             .then((res) => res.json())
             .then((data) => {
-                document.querySelector('.timetable-table').innerHTML =
-                    '<div class="pinned"></div>';
+                // document.querySelector('.timetable-table').innerHTML = '<div class="pinned"></div>';
                 document.querySelector(
                     '.teacher-select-wrapper'
                 ).style.display = 'none';
@@ -158,8 +157,7 @@ document.addEventListener('DOMContentLoaded', () => {
             });
     };
     groupFindBtn.onclick = () => {
-        document.querySelector('.timetable-table').innerHTML =
-            '<div class="pinned"></div>';
+        //document.querySelector('.timetable-table').innerHTML ='<div class="pinned"></div>';
         let date = new Date();
         document.querySelector('.error_wrapper').innerHTML = '';
         groupFindBtn.innerHTML = `<div class="spinner-border spinner-border-sm mx-3" role="status"></div>`;
@@ -176,11 +174,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 for (let i = 0; i < data.length; i++) {
                     let dataLessons = data[i].lessons[0];
                     let isPinned = data[i].pinned;
-                    if (isPinned) {
-                        document.querySelector(
-                            '.timetable-table .pinned'
-                        ).innerHTML += `
-                    
+
+                    document.querySelector('.timetable-table').innerHTML += `
+                    <div ${isPinned ? 'class="pinned"' : ''}>
                     <h2 class="w-75 mx-auto">${ruDayOfWeek(data[i].day)}</h2>
                     <table
                     class="table table-bordered table-hover align-middle students-table w-75 mx-auto"
@@ -197,30 +193,8 @@ document.addEventListener('DOMContentLoaded', () => {
                     </thead>
                     <tbody class="day-table-body"></tbody>
                     </table>
-                    `;
-                    } else {
-                        document.querySelector(
-                            '.timetable-table'
-                        ).innerHTML += `
-                    
-                    <h2 class="w-75 mx-auto">${ruDayOfWeek(data[i].day)}</h2>
-                    <table
-                    class="table table-bordered table-hover align-middle students-table w-75 mx-auto"
-                    style="text-align: center;"
-                >
-                    <thead class="table-success">
-                        <tr>
-                            <th scope="col">Начало</th>
-                            <th scope="col">Конец</th>
-                            <th scope="col">Предмет</th>
-                            <th scope="col">Преподаватель</th>
-                            <th scope="col">Аудитория</th>
-                        </tr>
-                    </thead>
-                    <tbody class="day-table-body"></tbody>
-                    </table>
-                    `;
-                    }
+                    </div>`;
+
                     for (let j = 0; j < dataLessons.length; j++) {
                         console.log(dataLessons[j].lesson);
                         let lesson = dataLessons[j].lesson.split('<br>'),
@@ -273,8 +247,7 @@ document.addEventListener('DOMContentLoaded', () => {
         fetch('/loadTeachers')
             .then((res) => res.json())
             .then((data) => {
-                document.querySelector('.timetable-table').innerHTML =
-                    '<div class="pinned"></div>';
+                //document.querySelector('.timetable-table').innerHTML = '<div class="pinned"></div>';
                 console.log(data);
                 document.querySelector('.group-select-wrapper').style.display =
                     'none';
@@ -321,42 +294,15 @@ document.addEventListener('DOMContentLoaded', () => {
             )
             .then((res) => res.json())
             .then((teacher_tt) => {
-                document.querySelector('.timetable-table').innerHTML =
-                    '<div class="pinned"></div>';
+                //document.querySelector('.timetable-table').innerHTML = '<div class="pinned"></div>';
                 console.log(teacher_tt);
                 let data = teacher_tt.tt;
                 for (let i = 0; i < data.length; i++) {
                     let dataLessons = data[i].hours[0];
                     let isPinned = data[i].pinned;
 
-                    if (isPinned) {
-                        document.querySelector(
-                            '.timetable-table .pinned'
-                        ).innerHTML += `
-                    
-                    <h2 class="w-75 mx-auto">${ruDayOfWeek(data[i].day)}</h2>
-                    <table
-                    class="table table-bordered table-hover align-middle students-table w-75 mx-auto"
-                    style="text-align: center;"
-                >
-                    <thead class="table-success">
-                        <tr>
-                            <th scope="col">Начало</th>
-                            <th scope="col">Конец</th>
-                            <th scope="col">Предмет</th>
-                            <th scope="col">Преподаватель</th>
-                            <th scope="col">Аудитория</th>
-                            <th scope="col">Группа</th>
-                            </tr>
-                            </thead>
-                            <tbody class="day-table-body"></tbody>
-                            </table>
-                            `;
-                    } else {
-                        document.querySelector(
-                            '.timetable-table'
-                        ).innerHTML += `
-                    
+                    document.querySelector('.timetable-table').innerHTML += `
+                    <div ${isPinned ? 'class="pinned"' : ''}>
                     <h2 class="w-75 mx-auto">${ruDayOfWeek(data[i].day)}</h2>
                     <table
                     class="table table-bordered table-hover align-middle students-table w-75 mx-auto"
@@ -374,8 +320,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     </thead>
                     <tbody class="day-table-body"></tbody>
                     </table>
-                    `;
-                    }
+                    </div>`;
 
                     for (let j = 0; j < dataLessons.length; j++) {
                         console.log(dataLessons[j].lesson);

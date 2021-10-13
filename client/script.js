@@ -122,6 +122,7 @@ document.addEventListener('DOMContentLoaded', () => {
             .then((res) => res.json())
             .then((data) => {
                 // document.querySelector('.timetable-table').innerHTML = '<div class="pinned"></div>';
+                document.querySelector('.timetable-table').innerHTML = '';
                 document.querySelector(
                     '.teacher-select-wrapper'
                 ).style.display = 'none';
@@ -158,6 +159,7 @@ document.addEventListener('DOMContentLoaded', () => {
     };
     groupFindBtn.onclick = () => {
         //document.querySelector('.timetable-table').innerHTML ='<div class="pinned"></div>';
+        document.querySelector('.timetable-table').innerHTML = '';
         let date = new Date();
         document.querySelector('.error_wrapper').innerHTML = '';
         groupFindBtn.innerHTML = `<div class="spinner-border spinner-border-sm mx-3" role="status"></div>`;
@@ -248,6 +250,7 @@ document.addEventListener('DOMContentLoaded', () => {
             .then((res) => res.json())
             .then((data) => {
                 //document.querySelector('.timetable-table').innerHTML = '<div class="pinned"></div>';
+                document.querySelector('.timetable-table').innerHTML = '';
                 console.log(data);
                 document.querySelector('.group-select-wrapper').style.display =
                     'none';
@@ -295,6 +298,7 @@ document.addEventListener('DOMContentLoaded', () => {
             .then((res) => res.json())
             .then((teacher_tt) => {
                 //document.querySelector('.timetable-table').innerHTML = '<div class="pinned"></div>';
+                document.querySelector('.timetable-table').innerHTML = '';
                 console.log(teacher_tt);
                 let data = teacher_tt.tt;
                 for (let i = 0; i < data.length; i++) {
